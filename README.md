@@ -21,6 +21,21 @@
 <p> ⇨ Deleção de um registro</p>
 <hr>
 
+<h3> Entidades do Banco de Dados: </h3>
+<p> ⇨ Usuario; </p>
+<p> ⇨ Endereço; </p>
+<p> ⇨ Cargo; </p>
+<p> ⇨ Tech;  </p>
+<p> ⇨ Sede. </p>
+
+<h3> Rotas possíveis: </h3>
+<p> ⇨ GET; </p>
+<p> ⇨ POST; </p>
+<p> ⇨ PUT; </p>
+<p> ⇨ DELETE.</p>
+
+<hr>
+
 <h3>Tecnologias: </h3>
 
 <p> ⇨ Visual Studio Code;</p>
@@ -37,13 +52,6 @@
 <p> ⇨ npm install sequelize-cli</p>
 <p> ⇨ npx sequelize db:migrate</p>
 <p> ⇨ npm run dev</p>
-
-
-<h3> Quais são as rotas possíveis: </h3>
-<p> ⇨ GET; </p>
-<p> ⇨ POST; </p>
-<p> ⇨ PUT; </p>
-<p> ⇨ DELETE.</p>
 
 
 <h3> STATUS: </h3>
