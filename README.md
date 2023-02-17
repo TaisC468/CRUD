@@ -46,6 +46,6 @@
 <p> ⇨ DELETE.</p>
 
 
-<h1> STATUS: </h1>
+<h3> STATUS: </h3>
 
 <p> Em andamento. </p>
